@@ -4,6 +4,10 @@
 
 ![Picture 1](data/image001.jpg)
 
+
+## הקוד: 
+
+
 ```cpp
 void setup()
 {
@@ -18,5 +22,12 @@ void loop()
   delay(1000);             // wait for a second
 }
 ```
+
+
+
+
+
+## מעגל נוסף:
+
 
 ![Picture 3](data/image002.jpg)
