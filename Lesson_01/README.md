@@ -2,7 +2,7 @@
 
 ## המעגל שנבנה:
 
-![Picture 1](Lesson_01_files/image001.jpg)
+![Picture 1](data/image001.jpg)
 
 ```cpp
 void setup()
@@ -19,4 +19,4 @@ void loop()
 }
 ```
 
-![Picture 3](Lesson_01_files/image002.jpg)
+![Picture 3](data/image002.jpg)
