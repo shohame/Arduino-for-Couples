@@ -3,7 +3,9 @@
 ## המעגל שנבנה:
 &nbsp;
 ![Picture 1](data/image001.jpg)
-&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## הקוד: 
 
@@ -24,7 +26,12 @@ void loop()
 ```
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 
 ## מעגל נוסף:
