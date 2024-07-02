@@ -4,11 +4,7 @@
 &nbsp;
 ![Picture 1](data/image001.jpg)
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+<br><br><br>
 
 ## הקוד: 
 
@@ -28,7 +24,9 @@ void loop()
 }
 ```
 
-<div style="margin-bottom: 200px;"></div>
+<br><br><br>
+<br><br><br>
+<br><br><br>
 
 
 ## מעגל נוסף:
