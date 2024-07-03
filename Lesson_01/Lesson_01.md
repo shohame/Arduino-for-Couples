@@ -1,12 +1,12 @@
-[<---](README.md)
+[<<<< Manu >>>>](../README.md)
 
-# שיעור ראשון
+#1 - שיעור ראשון
 &nbsp;&nbsp;
 ## המעגל שנבנה:
 &nbsp;
 ![Picture 1](data/image001.jpg)
 
-<br><br><br>
+<br><br>
 
 ## הקוד: 
 
