@@ -12,11 +12,14 @@
 
 
 ```cpp
+
+// The setup() function is run once, when the program starts.
 void setup()
 {
   pinMode(8, OUTPUT); // initialize digital pin 8 as an output.
 }
-// the loop function runs over and over again forever
+
+// The loop function runs over and over again forever
 void loop()
 {
   digitalWrite(8, HIGH);   // turn the LED on (HIGH is the voltage level)
@@ -31,7 +34,7 @@ void loop()
 <br><br><br>
 
 
-## מעגל נוסף:
+## מעגל נוסף - הבהוב ניידת משטרה:
 
 
 ![Picture 3](data/image002.jpg)
