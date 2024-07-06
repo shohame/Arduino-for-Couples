@@ -4,7 +4,7 @@
 &nbsp;&nbsp;
 ## המעגל שנבנה:
 &nbsp;
-![Picture 1](data/image001.jpg)
+![Picture 1](data/image001.svg)
 
 <br><br>
 
