@@ -66,6 +66,7 @@ void loop()
 
 
 ## צירוף הלד משעור קודם
+## צירוף הלד משעור קודם
 
 
-![Picture 2](data/image002.jpg)
+![Picture 2](data/image002.svg)
