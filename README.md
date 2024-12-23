@@ -13,4 +13,7 @@
 ### [4 - שיעור רביעי - Tinkercad - רכיב אולטראסוני](Lesson_04/Lesson_04.md)
 
 
+### [4.5 - שיעור ארבע וחצי - חג החנוכה](Lesson_04.5-Hanuka/Lesson_04.5-Hanuka.md)
+
+
 <br><br>
