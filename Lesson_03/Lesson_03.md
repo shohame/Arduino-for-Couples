@@ -1,96 +1,37 @@
 [<<<< Menu >>>>](../README.md)
 
-# שיעור שני - פוטנציומטר - דגימה אנלוגית - ערוץ סריאלי
+# שיעור שלישי - בניית המשחק
 &nbsp;&nbsp;
-### המעגל שנבנה:
-&nbsp;
-![Picture 1](data/image001.svg)
-
-<br><br>
-
-### פקודות שימושיות: 
-
-```cpp
-
-
-int AnalogPin = 0;
- 
-Serial.begin(9600);
- 
-int sensorValue = analogRead(AnalogPin); 
- 
-Serial.println(sensorValue); 
-
-delay(10);   
-
- 
-```
-<br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-### הקוד: 
-
-
-```cpp
-
-int AnalogPin = 0;
-int DelayTime = 10; // 10 milliseconds
-
-void setup() 
-{
-  Serial.begin(9600);     // init. serial com. at 9600 bits per sec.
-}
-
-void loop() 
-{
-  int sensorValue = analogRead(AnalogPin);   // read analog: 0 to 1023 (10 bits)
-  
-  Serial.println(sensorValue);   // print out the value you read
-  delay(DelayTime);                
-}
-
-```
-
-<br><br><br>
-<br><br><br>
-<br><br><br>
-
-
-### צירוף הלד משעור קודם
-
-
-![Picture 2](data/image002.svg)
-
-<br><br><br><br><br><br>
 
 # בניית המשחק
 
 ### מבנה המשחק:
 
-![Picture 22](data/image002.png)
+![Picture 22](../Lesson_02/data/image002.png)
 
 
 ### המעגל של המקלות והמשטחים:
 
-![Picture 3](data/image003.jpg)
+![Picture 3](../Lesson_02/data/image003.jpg)
 
 
 
 ### המעגל של הלדים - ירוק \ אדום:
 
-![Picture 4](data/image004.jpg)
+![Picture 4](../Lesson_02/data/image004.jpg)
 
 ### המעגל של הלדים - מי ניצח:
 
-![Picture 5](data/image005.png)
+![Picture 5](../Lesson_02/data/image005.png)
 
 
 ### המעגל המלא:
 
-![Picture 6](data/image006.png)
+![Picture 6](../Lesson_02/data/image006.png)
 ### הקדיחות שיש לבצע:
 
-![Picture 7](data/Game_Holls.png)
+![Picture 7](../Lesson_02/data/Game_Holls.png)
+
 <br><br><br>
 
 ### הקוד:
@@ -223,5 +164,59 @@ void loop()
 }
 ```
 
+<br><br><br>
+<br><br><br>
+
+<!--
+
+# מתחילים לעבוד עם [Tinkercad](https://www.tinkercad.com/):
+
+<br><br>
 
 
+### להתחלת מעגל חדש יש ללחוץ על +New:
+![image001](data/image001.jpg)
+
+### לבחור Circuit:
+![image002](data/image002.jpg)
+
+### לחיצה על הארדואינו אונו:
+![image003](data/image003.jpg)
+
+### לחיצה על משטח העבודה כדי להניח את הארדואינו:
+![image004](data/image004.jpg)
+
+### באופן דומה ללחוץ על ה-Breadboard Small ועל הלוח:
+![image005](data/image005.jpg)
+
+### כדי לחבר חוט מהאדמה (GND) אל המטריצה, נלחץ בנקודות הבאות:
+![image006](data/image006.jpg)
+
+### אפשר וכדאי לשנות את החוט לשחור (עבור GND):
+![image007](data/image007.jpg)
+
+### באופן דומה מחברים את ה-5V בצבע אדום:
+![image008](data/image008.png)
+
+### מוסיפים לד ונגד:
+![image009](data/image009.png)
+
+### לוחצים על הנגד מזינים את ערכו – 220 ובוחרים אום Ω:
+![image010](data/image010.png)
+
+### כדי לשנות את הקוד יש ללחוץ על Code:
+![image011](data/image011.png)
+
+### הקוד שמופיע בהתחלה בתוך ה-forever שהוא ה-loop מהבהב את הלד שעל הכרטיס – פין 13. אפשר לגרור אותו לפח:
+![image012](data/image012.png)
+
+### ולבנות קוד שממתג את רגל מספר 8 – כמו שעשינו בשיעור הראשון:
+![image013](data/image013.png)
+
+### נחבר את רגל 8 לאנודה ונריץ בלחיצה על כפתור Start Simulation:
+![image014](data/image014.png)
+
+### כאשר רוצים להעתיק קוד לסביבת הארדואינו, יש לפתוח את הקוד ולבחור ב-Blocks את Blocks + Code אז ניתן להעתיק את הקוד מימין:
+![image015](data/image015.png)
+
+-->
